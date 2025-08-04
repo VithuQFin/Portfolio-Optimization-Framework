@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+
+# VS Code workspace
+.vscode/
+
+# Data folders
+data/raw/
+data/clean/
+data/raw_benchmark/
+data/clean_benchmark/
