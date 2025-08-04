@@ -76,7 +76,7 @@ MVP	                    Minimum Variance Portfolio (Markowitz model)
 Tangency	            Maximum Sharpe Ratio portfolio (with risk-free asset)
 Risk Parity	            Allocates risk equally across assets
 Max Diversification	    Maximizes diversification ratio (Choueifaty & Coignard, 2008)
-Equal Weights	        Baseline with 1/N asset allocation
+Equal Weights	            Baseline with 1/N asset allocation
 ```
 
 ## Author
