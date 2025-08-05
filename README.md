@@ -1,22 +1,22 @@
-# 🧠 Portfolio Optimization Strategies
+# Portfolio Optimization Strategies
 
 This project implements and compares several portfolio optimization methods, using historical data from multiple assets. It includes a full pipeline: from data loading and cleaning, through optimization and backtesting, all the way to performance analysis and visualizations.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ **Mean-Variance Optimization** (MVP & Tangency Portfolio)
-- ✅ **Risk Parity Optimization**
-- ✅ **Maximum Diversification Portfolio**
-- ✅ **Equal-Weight Portfolio** (as benchmark)
-- 📊 Performance metrics: Sharpe Ratio, Calmar Ratio, Max Drawdown, Annualized Return, etc.
-- 📈 Visualizations: Efficient Frontier, Rolling Sharpe, Correlation Heatmap, Risk Contributions, etc.
-- 🧪 Full backtest pipeline with benchmark comparison
+- **Mean-Variance Optimization** (MVP & Tangency Portfolio)
+- **Risk Parity Optimization**
+- **Maximum Diversification Portfolio**
+- **Equal-Weight Portfolio** (as benchmark)
+- Performance metrics: Sharpe Ratio, Calmar Ratio, Max Drawdown, Annualized Return, etc.
+- Visualizations: Efficient Frontier, Rolling Sharpe, Correlation Heatmap, Risk Contributions, etc.
+- Full backtest pipeline with benchmark comparison
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 .
@@ -76,7 +76,7 @@ MVP	                    Minimum Variance Portfolio (Markowitz model)
 Tangency	            Maximum Sharpe Ratio portfolio (with risk-free asset)
 Risk Parity	            Allocates risk equally across assets
 Max Diversification	    Maximizes diversification ratio (Choueifaty & Coignard, 2008)
-Equal Weights	        Baseline with 1/N asset allocation
+Equal Weights	            Baseline with 1/N asset allocation
 ```
 
 ## Author
