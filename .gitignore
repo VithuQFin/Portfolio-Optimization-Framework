@@ -13,3 +13,8 @@ data/clean_benchmark/
 # Streamlit pages
 Home.py
 pages/
+sidebar.py
+
+# Utils folder
+utils/visuaizations_st.py
+utils/reporting_st.py
